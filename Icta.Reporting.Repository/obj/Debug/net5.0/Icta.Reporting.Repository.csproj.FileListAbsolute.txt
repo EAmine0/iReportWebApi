@@ -1,0 +1,15 @@
+C:\Users\aelalaoui\source\repos\Icta.Reporting\Icta.Reporting.Repository\obj\Debug\net5.0\Icta.Reporting.Repository.csproj.AssemblyReference.cache
+C:\Users\aelalaoui\source\repos\Icta.Reporting\Icta.Reporting.Repository\obj\Debug\net5.0\Icta.Reporting.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aelalaoui\source\repos\Icta.Reporting\Icta.Reporting.Repository\obj\Debug\net5.0\Icta.Reporting.Repository.AssemblyInfoInputs.cache
+C:\Users\aelalaoui\source\repos\Icta.Reporting\Icta.Reporting.Repository\obj\Debug\net5.0\Icta.Reporting.Repository.AssemblyInfo.cs
+C:\Users\aelalaoui\source\repos\Icta.Reporting\Icta.Reporting.Repository\obj\Debug\net5.0\Icta.Reporting.Repository.csproj.CoreCompileInputs.cache
+C:\Users\aelalaoui\source\repos\Icta.Reporting\Icta.Reporting.Repository\bin\Debug\net5.0\Icta.Reporting.Repository.deps.json
+C:\Users\aelalaoui\source\repos\Icta.Reporting\Icta.Reporting.Repository\bin\Debug\net5.0\Icta.Reporting.Repository.dll
+C:\Users\aelalaoui\source\repos\Icta.Reporting\Icta.Reporting.Repository\bin\Debug\net5.0\ref\Icta.Reporting.Repository.dll
+C:\Users\aelalaoui\source\repos\Icta.Reporting\Icta.Reporting.Repository\bin\Debug\net5.0\Icta.Reporting.Repository.pdb
+C:\Users\aelalaoui\source\repos\Icta.Reporting\Icta.Reporting.Repository\bin\Debug\net5.0\Icta.Reporting.Data.dll
+C:\Users\aelalaoui\source\repos\Icta.Reporting\Icta.Reporting.Repository\bin\Debug\net5.0\Icta.Reporting.Data.pdb
+C:\Users\aelalaoui\source\repos\Icta.Reporting\Icta.Reporting.Repository\obj\Debug\net5.0\Icta.Reporting.Repository.csproj.CopyComplete
+C:\Users\aelalaoui\source\repos\Icta.Reporting\Icta.Reporting.Repository\obj\Debug\net5.0\Icta.Reporting.Repository.dll
+C:\Users\aelalaoui\source\repos\Icta.Reporting\Icta.Reporting.Repository\obj\Debug\net5.0\ref\Icta.Reporting.Repository.dll
+C:\Users\aelalaoui\source\repos\Icta.Reporting\Icta.Reporting.Repository\obj\Debug\net5.0\Icta.Reporting.Repository.pdb

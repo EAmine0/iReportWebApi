@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Icta.Reporting.WebApi", "Icta.Reporting.WebApi\Icta.Reporting.WebApi.csproj", "{EB36F7CF-3613-43A2-B692-617EE964AC81}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Icta.Reporting.Web", "Icta.Reporting.Web\Icta.Reporting.Web.csproj", "{4B00764D-88BD-40C8-9B2C-1F40705D03BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Icta.Reporting.Services", "Icta.Reporting.Services\Icta.Reporting.Services.csproj", "{C2BC6D4A-63EF-46F4-B73A-372B2FC4A5E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Icta.Reporting.Repository", "Icta.Reporting.Repository\Icta.Reporting.Repository.csproj", "{5CD94EB0-35E9-4FB1-8342-0892D9BBC069}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Icta.Reporting.Data", "Icta.Reporting.Data\Icta.Reporting.Data.csproj", "{F511D6F7-8802-40A2-A4D5-697D90C572ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB36F7CF-3613-43A2-B692-617EE964AC81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB36F7CF-3613-43A2-B692-617EE964AC81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB36F7CF-3613-43A2-B692-617EE964AC81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB36F7CF-3613-43A2-B692-617EE964AC81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B00764D-88BD-40C8-9B2C-1F40705D03BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B00764D-88BD-40C8-9B2C-1F40705D03BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B00764D-88BD-40C8-9B2C-1F40705D03BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B00764D-88BD-40C8-9B2C-1F40705D03BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2BC6D4A-63EF-46F4-B73A-372B2FC4A5E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2BC6D4A-63EF-46F4-B73A-372B2FC4A5E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2BC6D4A-63EF-46F4-B73A-372B2FC4A5E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2BC6D4A-63EF-46F4-B73A-372B2FC4A5E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CD94EB0-35E9-4FB1-8342-0892D9BBC069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CD94EB0-35E9-4FB1-8342-0892D9BBC069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CD94EB0-35E9-4FB1-8342-0892D9BBC069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CD94EB0-35E9-4FB1-8342-0892D9BBC069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F511D6F7-8802-40A2-A4D5-697D90C572ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F511D6F7-8802-40A2-A4D5-697D90C572ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F511D6F7-8802-40A2-A4D5-697D90C572ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F511D6F7-8802-40A2-A4D5-697D90C572ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37527368-48A6-49BD-BC09-47840C201C96}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://icta020:8080/tfs/ictacollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Icta.Reporting.Web\\Icta.Reporting.Web.csproj
+		SccProjectName1 = Icta.Reporting.Web
+		SccLocalPath1 = Icta.Reporting.Web
+		SccProjectUniqueName2 = Icta.Reporting.WebApi\\Icta.Reporting.WebApi.csproj
+		SccProjectName2 = Icta.Reporting.WebApi
+		SccLocalPath2 = Icta.Reporting.WebApi
+		SccProjectUniqueName3 = Icta.Reporting.Services\\Icta.Reporting.Services.csproj
+		SccProjectName3 = Icta.Reporting.Services
+		SccLocalPath3 = Icta.Reporting.Services
+		SccProjectUniqueName4 = Icta.Reporting.Repository\\Icta.Reporting.Repository.csproj
+		SccProjectName4 = Icta.Reporting.Repository
+		SccLocalPath4 = Icta.Reporting.Repository
+		SccProjectUniqueName5 = Icta.Reporting.Data\\Icta.Reporting.Data.csproj
+		SccProjectName5 = Icta.Reporting.Data
+		SccLocalPath5 = Icta.Reporting.Data
+	EndGlobalSection
+EndGlobal

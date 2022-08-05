@@ -1,0 +1,12 @@
+C:\Users\aelalaoui\source\repos\Icta.Reporting\Icta.Reporting.Data\bin\Debug\net5.0\Icta.Reporting.Data.deps.json
+C:\Users\aelalaoui\source\repos\Icta.Reporting\Icta.Reporting.Data\bin\Debug\net5.0\Icta.Reporting.Data.dll
+C:\Users\aelalaoui\source\repos\Icta.Reporting\Icta.Reporting.Data\bin\Debug\net5.0\ref\Icta.Reporting.Data.dll
+C:\Users\aelalaoui\source\repos\Icta.Reporting\Icta.Reporting.Data\bin\Debug\net5.0\Icta.Reporting.Data.pdb
+C:\Users\aelalaoui\source\repos\Icta.Reporting\Icta.Reporting.Data\obj\Debug\net5.0\Icta.Reporting.Data.csproj.AssemblyReference.cache
+C:\Users\aelalaoui\source\repos\Icta.Reporting\Icta.Reporting.Data\obj\Debug\net5.0\Icta.Reporting.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aelalaoui\source\repos\Icta.Reporting\Icta.Reporting.Data\obj\Debug\net5.0\Icta.Reporting.Data.AssemblyInfoInputs.cache
+C:\Users\aelalaoui\source\repos\Icta.Reporting\Icta.Reporting.Data\obj\Debug\net5.0\Icta.Reporting.Data.AssemblyInfo.cs
+C:\Users\aelalaoui\source\repos\Icta.Reporting\Icta.Reporting.Data\obj\Debug\net5.0\Icta.Reporting.Data.csproj.CoreCompileInputs.cache
+C:\Users\aelalaoui\source\repos\Icta.Reporting\Icta.Reporting.Data\obj\Debug\net5.0\Icta.Reporting.Data.dll
+C:\Users\aelalaoui\source\repos\Icta.Reporting\Icta.Reporting.Data\obj\Debug\net5.0\ref\Icta.Reporting.Data.dll
+C:\Users\aelalaoui\source\repos\Icta.Reporting\Icta.Reporting.Data\obj\Debug\net5.0\Icta.Reporting.Data.pdb
